@@ -78,3 +78,4 @@
 
 ## Используемые инструменты
 
+`pandas` `plotly`  `scikit-learn`  `LightGBM`
