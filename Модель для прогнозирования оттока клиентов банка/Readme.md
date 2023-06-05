@@ -41,3 +41,12 @@
 **Целевой признак**
 
 - `Exited` — факт ухода клиента
+
+## Используемые инструменты
+
+`matplotlib` `numpy` `pandas` `sklearn`
+
+**Модели**
+`LogisticRegression` `DecisionTreeClassifier` `RandomForestClassifier` 
+
+
