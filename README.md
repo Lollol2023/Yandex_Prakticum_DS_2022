@@ -3,7 +3,7 @@
 
 ### Содержание: / Content:
 
-  - [Основы Python - *Project_02*](Музыка больших городов)
+  - [Основы Python - *Project_02*]([Музыка больших городов](Музыка%20больших%20городов))
   - [Предобработка данных / Data Processing - *Project_02*](Исследование надежности заемщиков)
   - [Исследовательский анализ данных / Exploratory data analysis - *Project_02*](02_real_estate_market)
   - [Статистический анализ данных / Statistical analysis of data - *Project_03*](03_statistical_data_analysis)
