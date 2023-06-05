@@ -59,3 +59,7 @@
 **Целевой признак**
 
 - `Price` — цена (евро)
+
+## Используемые инструменты
+
+`pandas` `numpy` `plotly` `matplotlib` `seaborn` `lightgbm` `sklearn` `catboost`
