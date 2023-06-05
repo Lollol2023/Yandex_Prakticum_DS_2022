@@ -25,7 +25,9 @@
 `pandas` `matplotlib` `sklearn`
 
 **Модели**
+
 `DecisionTreeClassifier` `RandomForestClassifier` `LogisticRegression`
 
 **Метрики**
+
 `accuracy_score` `precision_score` `recall_score` `f1_score`
