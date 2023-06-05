@@ -20,3 +20,8 @@
 Данные лежат в файле data.csv. 
 
 Количество заказов находится в столбце `'num_orders'` (от англ. number of orders, «число заказов»).
+
+## Используемые инструменты
+
+`pandas` `numpy` `lightgbm` `matplotlib` `plotly` `sklearn` `catboost` `statsmodels`
+
