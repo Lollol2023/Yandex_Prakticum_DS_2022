@@ -5,9 +5,9 @@
 
   - [Основы Python - *Project_01*](Музыка%20больших%20городов)
   - [Предобработка данных / Data Processing - *Project_02*](Исследование%20надежности%20заемщиков)
-  - [Исследовательский анализ данных / Exploratory data analysis - *Project_03*](02_real_estate_market)
-  - [Статистический анализ данных / Statistical analysis of data - *Project_04*](03_statistical_data_analysis)
-  - [Сборный проект / Common project - *Project_05*](04_game_dev_analytics)
+  - [Исследовательский анализ данных / Exploratory data analysis - *Project_03*](Исследование%20объявлений%20о%20продаже%20квартир)
+  - [Статистический анализ данных / Statistical analysis of data - *Project_04*](Определение%20перспективного%20тарифа%20для%20телеком-компании)
+  - [Сборный проект / Common project - *Project_05*](Исследование%20продаж%20компьютерных%20игр)
   - [Введение в машинное обучение / Introduction to machine learning  - *Project_06*](05_ml_intro_mobile_tariffs)
   - [Обучение с учителем / Supervised learning  - *Project_07*](06_customer_churn_forecasting)
   - [Машинное обучение в бизнесе / Machine learning in business  - *Project_08*](07_ml_for_business_oil_bores)
