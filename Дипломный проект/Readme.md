@@ -7,7 +7,7 @@
 Необходимо построить модель, которая предскажет температуру стали.
 
 **Примечание**
-Github не отображает интерактивные графики Plotly. Для просмотра с показом графиков можно перейти по [ссылке в nbviewer ] (https://nbviewer.org/github/Lollol2023/Yandex_Prakticum_DS_2022/blob/main/Дипломный%20проект/Model_optimizatsii_izderzhek_metallurgia.ipynb#)
+Github не отображает интерактивные графики Plotly. Для просмотра с показом графиков можно перейти по [ссылке в nbviewer ](https://nbviewer.org/github/Lollol2023/Yandex_Prakticum_DS_2022/blob/main/Дипломный%20проект/Model_optimizatsii_izderzhek_metallurgia.ipynb#)
 
 ## Описание этапа обработки
 
